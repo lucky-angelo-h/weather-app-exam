@@ -1,0 +1,54 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-d315f3c6.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/images/kyoto.jpg": {
+    "file": "assets/kyoto-2878e855.jpg",
+    "src": "resources/images/kyoto.jpg"
+  },
+  "resources/images/loader/loader.svg": {
+    "file": "assets/loader-b796a09d.svg",
+    "src": "resources/images/loader/loader.svg"
+  },
+  "resources/images/nagoya.jpg": {
+    "file": "assets/nagoya-75e2a8a4.jpg",
+    "src": "resources/images/nagoya.jpg"
+  },
+  "resources/images/osaka.jpg": {
+    "file": "assets/osaka-7c009c0d.jpg",
+    "src": "resources/images/osaka.jpg"
+  },
+  "resources/images/sapporo.jpg": {
+    "file": "assets/sapporo-76d44a09.jpg",
+    "src": "resources/images/sapporo.jpg"
+  },
+  "resources/images/tokyo.jpg": {
+    "file": "assets/tokyo-4e2193f2.jpg",
+    "src": "resources/images/tokyo.jpg"
+  },
+  "resources/images/yokohama.jpg": {
+    "file": "assets/yokohama-c96e234d.jpg",
+    "src": "resources/images/yokohama.jpg"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/tokyo-4e2193f2.jpg",
+      "assets/yokohama-c96e234d.jpg",
+      "assets/kyoto-2878e855.jpg",
+      "assets/osaka-7c009c0d.jpg",
+      "assets/sapporo-76d44a09.jpg",
+      "assets/nagoya-75e2a8a4.jpg",
+      "assets/loader-b796a09d.svg"
+    ],
+    "file": "assets/app-8ea6dfc7.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-01aa9c11.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
